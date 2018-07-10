@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './Project';
+import App from './GoFetch';
 
 ReactDOM.render(<App />, document.getElementById('app'));
